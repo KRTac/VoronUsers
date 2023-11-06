@@ -3,9 +3,21 @@
 # Removable Electronics Fan
 
 ![Mounted over board with 120mm fan](images/IMG20231103001214.jpg)
-![Opened fan example](images/IMG20231103001242.jpg)
+![Opened fan plate](images/IMG20231103001242.jpg)
+
+I don't use a bottom panel so a standard 120x25mm fan can fit with plenty of
+space bellow it. Use a 120x15mm slim fan if you have a bottom panel. The hinge
+and stay mount to the DIN rail using standard Voron PCB clips and the fan plate
+is removable for easy access.
+
+I tested it with a BTT Manta M8P v1.1 board. The fan plate clears the standard
+heatsinks mounted on the motor drivers. If you try it with other boards, feel
+free to report back to KRTac on the Voron Discord.
 
 ## Print settings
+The fan plate is quite thin because of height clearance, but the fan will add
+structure once in place. Use slightly beefier print settings for it.
+
 * 0.4 nozzle (100% line width, so 0.4)
 * layer height: 0.2 
 * top/bottom layers: at least 5 for the fan plate, 3-4 for the rest
@@ -18,10 +30,21 @@ Adjust your settings if needed based on your preferred print setup.
 
 ## BOM
 * 6 x M2 10mm self-tapping
-* 1 x M3 10mm and up
-* 1 x M3 heat insert
+* 4 x M3 6mm and up BHCS
+* 1 x M3 12mm and up
+* 5 x M3 heat insert
+* 2 x standard printed Voron PCB DIN clip (used for mainboards)
 
 ## Assembly
+One heat insert goes to the front of the fan plate and the rest into the fan
+itself. Keep in mind to double check the direction of the fan and insert the
+heat inserts into the holes of the blowing side and mount it to the plate.
+Use the two 10mm M2 screws and thread them into the the two fan plate hinge arms
+from the outside, but keep about 3-4 mm of the bolt outside.
 
+![Example of hinge screw position](images/hinge_screws.jpg)
+
+Now flex the parts and get the ends of the M2's to snap into the intended holes
+on the hinge.
 
 ![CAD screenshot of the hinge-plate joint](images/cad_2.jpg)
