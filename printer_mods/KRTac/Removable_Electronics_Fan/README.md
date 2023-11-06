@@ -5,12 +5,12 @@
 
 I don't use a bottom panel so a standard 120x25mm fan can fit with plenty of
 space bellow it. Use a 120x15mm slim fan if you have a bottom panel, but you'll
-probably need to drill/cut air holes in the panel. The hinge and stay mount to the DIN
-rail using standard Voron PCB clips and the fan plate is removable for easy
-access. Depending on the orientation of the din clips, you can mount the fan
-centered or offset it to the top or bottom.
+probably need to drill/cut air holes in the panel. The hinge and stay mount to
+the DIN rail using standard Voron PCB clips and the fan plate is removable for
+easy access. Depending on the orientation of the din clips, you can mount the
+fan centered or offset it to the top or bottom.
 
-I tested it with a BTT Manta M8P v1.1 board. The fan plate clears the standard
+I tested it with a BTT Manta M8P board. The fan plate clears the standard
 heatsinks mounted on the motor drivers. If you try it with other boards, feel
 free to report back.
 
@@ -54,7 +54,7 @@ on the hinge.
 ![CAD screenshot of the hinge-plate joint](images/cad_2.jpg)
 
 Use a 12mm (or bigger) M3 BHCS or a SHCS with a shim to fixate the plate to the
-stay. Optionaly you could print out a knob for a M3 screw to hand tighten the
+stay. Optionaly you could print out a knob for a M3 screw to hand-tighten the
 assembly. 
 
 Check how you want to position the fan (centered or off-center), orient the DIN
