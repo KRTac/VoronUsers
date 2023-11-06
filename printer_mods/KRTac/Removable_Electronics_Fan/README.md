@@ -24,4 +24,4 @@ Adjust your settings if needed based on your preferred print setup.
 ## Assembly
 
 
-![CAD screenshot of the hinge-plate joint](images/cad_1.jpg)
+![CAD screenshot of the hinge-plate joint](images/cad_2.jpg)
