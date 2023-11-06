@@ -1,18 +1,20 @@
-![CAD assembly screenshot](images/cad_1.jpg)
-
 # Removable Electronics Fan
 
-![Mounted over board with 120mm fan](images/IMG20231103001214.jpg)
+![Mounted over board with a 120mm fan](images/IMG20231103001214.jpg)
 ![Opened fan plate](images/IMG20231103001242.jpg)
 
 I don't use a bottom panel so a standard 120x25mm fan can fit with plenty of
-space bellow it. Use a 120x15mm slim fan if you have a bottom panel. The hinge
-and stay mount to the DIN rail using standard Voron PCB clips and the fan plate
-is removable for easy access.
+space bellow it. Use a 120x15mm slim fan if you have a bottom panel, but you'll
+probably need to drill/cut air holes in the panel. The hinge and stay mount to the DIN
+rail using standard Voron PCB clips and the fan plate is removable for easy
+access. Depending on the orientation of the din clips, you can mount the fan
+centered or offset it to the top or bottom.
 
 I tested it with a BTT Manta M8P v1.1 board. The fan plate clears the standard
 heatsinks mounted on the motor drivers. If you try it with other boards, feel
-free to report back to KRTac on the Voron Discord.
+free to report back.
+
+![CAD assembly screenshot](images/cad_1.jpg)
 
 ## Print settings
 The fan plate is quite thin because of height clearance, but the fan will add
@@ -34,6 +36,7 @@ Adjust your settings if needed based on your preferred print setup.
 * 1 x M3 12mm and up
 * 5 x M3 heat insert
 * 2 x standard printed Voron PCB DIN clip (used for mainboards)
+* 1 x 120mm fan with 105mm bolt hole spacing (most standard 120 fans)
 
 ## Assembly
 One heat insert goes to the front of the fan plate and the rest into the fan
