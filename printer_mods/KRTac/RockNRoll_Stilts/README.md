@@ -1,6 +1,6 @@
-![Stilt on a 350mm V2.4](images/IMG20231106145833.jpg)
+![Stilt on a 350mm V2.4](images/IMG20231106145834.jpg)
 
-# Voron RockNRoll Mod Stilts
+# RockNRoll Mod Stilts
 Intended for use with Voron printers that use the awesome
 [RockNRoll mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/RockNLol/RockNRoll)
 by RockNLol. This stops the printer from tipping over if the center of mass is a
@@ -33,4 +33,4 @@ printer back carefully and adjust the position so that the rockers are flat on
 the surface. Position both stabilizers so that they both have about equal
 pressure on them.
 
-![Positioning example](images/IMG20231106145446.jpg)
+![Positioning example](images/IMG20231106145447.jpg)
